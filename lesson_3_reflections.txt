@@ -1,0 +1,3 @@
+When would you want to create a remote repository as opposed to keeping changes local?
+Maybe if it doesnt affect the code and you're not woried about it breaking something its ok. Like a readme or a note between the group.
+Maybe if you're adding a change to the online version so people can collaborate on a bug instead of you being stuck on it alone
