@@ -7,8 +7,11 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You could use the staging area to make sure you have one commit per logical change by checking differences
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	When i am creating diferent modes for something or versions that need to function but have some other features changed. Branches might help so I can see the other paths that I have options to choose from . 
 
 How do the diagrams help you visualize the branch structure?
 
